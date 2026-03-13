@@ -24,7 +24,7 @@ Araçlar: Eclipse IDE, GitHub Versiyon Kontrol Sistemi.
 
 Kurulum ve Çalıştırma
 Projeleri yerel makinenizde çalıştırmak için:
-Depoyu klonlayın: git clone https://github.com/ikbal-albayrak/Veri-Yap-lar-.git
+Depoyu klonlayın: git clone https://github.com/ikbal-albayrak/data-structures-java
 İlgili klasöre gidin: cd stack veya cd Recursive-Functions
 Derleyin ve çalıştırın:
 javac AnaSinif.java
